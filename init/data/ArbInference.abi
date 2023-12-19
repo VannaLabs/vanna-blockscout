@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"bytes","name":"input","type":"bytes"}],"name":"inferCall","outputs":[{"internalType":"bytes","name":"","type":"bytes"}],"stateMutability":"nonpayable","type":"function"}]
